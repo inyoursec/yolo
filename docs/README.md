@@ -1,5 +1,5 @@
 # GitHub badge hunting 🏹🦌
-
+ 
 [![hits](https://img.shields.io/badge/dynamic/xml?color=success&label=views&query=//*[name()=%27text%27][3]&url=https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParanoidUser%2Fyolo)](https://hits.seeyoufarm.com/api/count/graph/dailyhits.svg?url=https://github.com/ParanoidUser/yolo)
 [![badges](https://img.shields.io/badge/badge%20hunt-246-red.svg)](https://github.com/ParanoidUser/yolo/blob/main/docs/CHANGELOG.md)
 [![discussions](https://img.shields.io/github/discussions/ParanoidUser/yolo?color=%23ED8936)](https://github.com/ParanoidUser/yolo/discussions)
